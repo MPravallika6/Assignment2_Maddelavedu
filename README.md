@@ -6,5 +6,5 @@ Araku Valley is a **hill station** and valley region in the southeastern Indian 
 Araku Valley is also **famous for its rich coffee plantations**.
 
 ***
-### Way to my favorite place
+### Way to My Favorite Place
 ***
