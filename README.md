@@ -8,3 +8,9 @@ Araku Valley is also **famous for its rich coffee plantations**.
 ***
 ### Way to My Favorite Place
 ***
+
+1. Go to kansas Airport
+2. Book A Ticket To Vizag
+      1. Go To Araku
+1. Come Back To Airport
+2. After That Come To Maryville      
