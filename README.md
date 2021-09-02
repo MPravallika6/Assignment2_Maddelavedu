@@ -13,4 +13,4 @@ Araku Valley is also **famous for its rich coffee plantations**.
 2. Book A Ticket To Vizag
       1. Go To Araku
 1. Come Back To Airport
-2. After That Come To Maryville      
+2. After That Come Back To Maryville      
