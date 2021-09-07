@@ -14,3 +14,13 @@ Araku Valley is also **famous for its rich coffee plantations**.
       1. Go To Araku
 1. Come Back To Airport
 2. After That Come Back To Maryville      
+ 
+***
+### Items to Carry(Unordered)
+***
+
+* Mobile Phone Is Mandatory
+* Essential Items Required For Travelling
+     * Camera
+     * Food
+     * Trekking
