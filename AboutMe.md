@@ -1,5 +1,5 @@
 ***
-### Regarding Myself_Maddelavedu Pravallika
+### Maddelavedu Pravallika
 ***
 
 I Completed My Undergraduate From Guru Nanak Institution And Technical Campus, Specialization In Computer Science.
