@@ -53,4 +53,34 @@ In This Table I going to Share about foods items which i have tasted near maryvi
 >"Fastasy is hardly an escape from reality. It's a way of understanding it."
 ***LLOYD LEXANDER***.
 
+***
+### code Fencing - Lexicographical Next Balanced Sequence
+***
 
+>First find the rightmost opening bracket which we can replace it by a closing bracket to get the lexicographically larger bracket string. The updated string might not be balanced, we can fill the remaining part of the string with the lexicographically minimal one: i.e. first with as much opening brackets as possible, and then fill up the remaining positions with closing brackets. In other words we try to leave a long as possible prefix unchanged, and the suffix gets replaced by the lexicographically minimal one.To find this position, we can iterate over the character from right to left, and maintain the balance depth of open and closing brackets. When we meet an opening brackets, we will decrement depth, and when we meet a closing bracket, we increase it. If we are at some point meet an opening bracket, and the balance after processing this symbol is positive, then we have found the rightmost position that we can change. We change the symbol, compute the number of opening and closing brackets that we have to add to the right side, and arrange them in the lexicographically minimal way.
+
+[ForMoreInformation](https://cp-algorithms.com/)
+
+```
+bool next_balanced_sequence(string & s) {
+    int n = s.size();
+    int depth = 0;
+    for (int i = n - 1; i >= 0; i--) {
+        if (s[i] == '(')
+            depth--;
+        else
+            depth++;
+
+        if (s[i] == '(' && depth > 0) {
+            depth--;
+            int open = (n - i - 1 - depth) / 2;
+            int close = n - i - 1 - open;
+            string next = s.substr(0, i) + ')' + string(open, '(') + string(close, ')');
+            s.swap(next);
+            return true;
+        }
+    }
+    return false;
+}
+```
+[ForMoreInformation](https://cp-algorithms.com/combinatorics/bracket_sequences.html)
