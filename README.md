@@ -48,8 +48,9 @@ In This Table I going to Share about foods items which i have tasted near maryvi
 ***
 
 >"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great."
-**MARK TWAIN**
+***MARK TWAIN***.
+
 >"Fastasy is hardly an escape from reality. It's a way of understanding it."
-**LLOYD LEXANDER**
+***LLOYD LEXANDER***.
 
 
