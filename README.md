@@ -37,7 +37,7 @@ Araku Valley is also **famous for its rich coffee plantations**.
 In This Table I going to Share about foods items which i have tasted near maryville. Chuys Mexican Food which is in kansas city i like to prefer chicka-chicka boom-boom, Panchos also good in taste and delicious. Taco Bell is in Missouri My favorite food is chicken chipotle melt and chicken quesadilla. I would suggest everyone to try these.
 
 | Food                                | Location | Price  |
-|---------------------------------------------------------|
+|-------------------------------------|----------|--------|
 | Panchos                             | Kansas   | $12.98 |    
 | chicka-chicko boom-boom enchiladas  | Kansas   | $11.89 |    
 | chicken chipotle                    | Missouri | $1     |
