@@ -24,3 +24,9 @@ Araku Valley is also **famous for its rich coffee plantations**.
      * Camera
      * Food
      * Trekking
+
+*** 
+### Regarding Myself_Maddelavedu Pravallika     
+***
+[click](https://github.com/MPravallika6/Assignment2_Maddelavedu/blob/main/AboutMe.md)
+
