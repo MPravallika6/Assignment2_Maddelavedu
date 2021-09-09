@@ -28,7 +28,7 @@ Araku Valley is also **famous for its rich coffee plantations**.
 *** 
 ### Regarding Myself_Maddelavedu Pravallika     
 ***
-[click Here](https://github.com/MPravallika6/Assignment2_Maddelavedu/blob/main/AboutMe.md)
+[click Here](AboutMe.md)
 
 ***
 ### Referred food
@@ -59,7 +59,7 @@ In This Table I going to Share about foods items which i have tasted near maryvi
 
 >First find the rightmost opening bracket which we can replace it by a closing bracket to get the lexicographically larger bracket string. The updated string might not be balanced, we can fill the remaining part of the string with the lexicographically minimal one: i.e. first with as much opening brackets as possible, and then fill up the remaining positions with closing brackets. In other words we try to leave a long as possible prefix unchanged, and the suffix gets replaced by the lexicographically minimal one.To find this position, we can iterate over the character from right to left, and maintain the balance depth of open and closing brackets. When we meet an opening brackets, we will decrement depth, and when we meet a closing bracket, we increase it. If we are at some point meet an opening bracket, and the balance after processing this symbol is positive, then we have found the rightmost position that we can change. We change the symbol, compute the number of opening and closing brackets that we have to add to the right side, and arrange them in the lexicographically minimal way.
 
-[ForMoreInformation](https://cp-algorithms.com/)
+ForMoreInformation <https://cp-algorithms.com>
 
 ```
 bool next_balanced_sequence(string & s) {
@@ -83,4 +83,4 @@ bool next_balanced_sequence(string & s) {
     return false;
 }
 ```
-[ForMoreInformation](https://cp-algorithms.com/combinatorics/bracket_sequences.html)
+ForMoreInformation <https://cp-algorithms.com/combinatorics/bracket_sequences.html>
